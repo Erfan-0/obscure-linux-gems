@@ -1,4 +1,6 @@
-## Obscure Linux Gems
+## Hidden Utilities
+
+### For lesser-known, practical commands and tools:
 
 | Command | Description | Use Case | Installation | Usage | Output |
 | --- | --- | --- | --- | --- | --- |
