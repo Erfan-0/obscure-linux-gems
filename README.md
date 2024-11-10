@@ -15,33 +15,27 @@ Here, we introduce useful and lesser-known Linux tools that are not easily found
 </details>
 
 <details>  
-<summary>Forgotten Gems>  
+<summary>System Secrets</summary>  
 
 
 </details>  
 
-<details>  
-<summary>System Secrets</summary>  
-
-TBA
-
-</details>
-
-<details>  
-<summary>Beyond Basics</summary>  
-
-TBA
-
-</details>
 
 <details>  
 <summary>Network Ninja</summary>  
 
+TBA
 
 </details>
 
 <details>  
-<summary>Shell Sorcery"</summary>  
+<summary>Shell Sorcery</summary>  
+
+
+</details>
+
+<details>  
+<summary>Fun and Terminal Delights</summary>  
 
 TBA
 
