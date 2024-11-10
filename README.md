@@ -19,11 +19,11 @@ Here, we introduce useful and lesser-known Linux tools that are not easily found
 
 | Command | Description | Use Case | Installation | Usage | Output |
 | --- | --- | --- | --- | --- | --- |
-| [ncdu](#ncdu) | Disk usage analyzer with a text-based interface. | Quickly analyze disk usage to identify large files and directories. | sudo apt install ncdu | <pre>ncdu /</pre> | A navigable interface showing disk usage by folder and file. |
-| [htop](#htop) | Interactive process viewer for Unix systems. | Monitor system processes, memory usage, and CPU load in real-time. | sudo apt install htop | <pre>htop</pre> | A color-coded, interactive display of system processes and resource usage. |
-| [inotifywait](#inotifywait) | Command-line utility to watch for file system changes. | Monitor file or directory changes in real-time, such as file creation or modification. | sudo apt install inotify-tools | <pre>inotifywait -m /path/to/dir</pre> | Lists events such as file creation, modification, or deletion. |
-| [lsblk](#lsblk) | Lists information about all available block devices. | View detailed information about your storage devices, partitions, and file systems. | Pre-installed in most distributions. | <pre>lsblk</pre> | Displays a tree-like structure of your block devices, partitions, and mount points. |
-| [auditd](#auditd) | Linux audit daemon for logging system events. | Record system events, especially changes to critical files or directories. | sudo apt install auditd | <pre>auditctl -w /etc/passwd -p wa</pre> | Logs all changes made to /etc/passwd, including writes and attribute changes. |
+| [`ncdu`](#ncdu) | Disk usage analyzer with a text-based interface. | Quickly analyze disk usage to identify large files and directories. | sudo apt install ncdu | <pre>ncdu /</pre> | A navigable interface showing disk usage by folder and file. |
+| [`htop`](#htop) | Interactive process viewer for Unix systems. | Monitor system processes, memory usage, and CPU load in real-time. | sudo apt install htop | <pre>htop</pre> | A color-coded, interactive display of system processes and resource usage. |
+| [`inotifywait`](#inotifywait) | Command-line utility to watch for file system changes. | Monitor file or directory changes in real-time, such as file creation or modification. | sudo apt install inotify-tools | <pre>inotifywait -m /path/to/dir</pre> | Lists events such as file creation, modification, or deletion. |
+| [`lsblk`](#lsblk) | Lists information about all available block devices. | View detailed information about your storage devices, partitions, and file systems. | Pre-installed in most distributions. | <pre>lsblk</pre> | Displays a tree-like structure of your block devices, partitions, and mount points. |
+| [`auditd`](#auditd) | Linux audit daemon for logging system events. | Record system events, especially changes to critical files or directories. | sudo apt install auditd | <pre>auditctl -w /etc/passwd -p wa</pre> | Logs all changes made to /etc/passwd, including writes and attribute changes. |
 
 </details>  
 
@@ -38,6 +38,7 @@ TBA
 <details>  
 <summary>Shell Sorcery</summary>  
 
+TBA
 
 </details>
 
